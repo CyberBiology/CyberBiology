@@ -1,7 +1,7 @@
 
 import java.awt.*;
 import javax.swing.*;
-
+// Тест
 // Основной класс программы.
 
 public class World extends JFrame {
