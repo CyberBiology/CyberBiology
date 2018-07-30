@@ -1,5 +1,6 @@
 package v0;
 
+@Deprecated
 public class Bot
 {
 

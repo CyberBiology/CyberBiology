@@ -5,6 +5,7 @@ import javax.swing.*;
 // Тест
 // Основной класс программы.
 
+@Deprecated
 public class World extends JFrame
 {
 

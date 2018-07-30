@@ -2,3 +2,7 @@
 
 ### Maven ###
 target/
+
+
+### Setting file ###
+properties.xml
